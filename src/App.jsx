@@ -129,7 +129,7 @@ const App = () => {
         <p>Made with ❤️ By Pranit Daphale</p>
         <div className="flex gap-4 text-xl">
           <a href="https://in.linkedin.com/in/pranitdaphale" target="_blank" rel="noreferrer" className="hover:text-blue-400"><FaLinkedin /></a>
-          <a href="https://x.com/pranitdaphale" target="_blank" rel="noreferrer" className="hover:text-white"><FaXTwitter /></a>
+          <a href="#" target="_blank" rel="noreferrer" className="hover:text-white"><FaXTwitter /></a>
           <a href="https://instagram.com/pranit.daphale" target="_blank" rel="noreferrer" className="hover:text-pink-400"><FaInstagram /></a>
         </div>
       </footer>
